@@ -1,0 +1,9 @@
+*
+!dist/
+!dist/**
+!vercel.json
+**/.env
+**/.env.*
+**/*.csv
+**/*.zip
+**/private/

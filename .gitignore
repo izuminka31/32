@@ -1,0 +1,15 @@
+# В репозиторий входят только сайт и файлы публикации.
+*
+!.gitignore
+!.vercelignore
+!README.md
+!vercel.json
+!dist/
+!dist/**
+**/.env
+**/.env.*
+**/*.csv
+**/*.zip
+**/private/
+**/node_modules/
+.vercel/
