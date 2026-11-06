@@ -6,6 +6,8 @@
 !vercel.json
 !dist/
 !dist/**
+!api/
+!api/**
 **/.env
 **/.env.*
 **/*.csv

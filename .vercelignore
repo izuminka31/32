@@ -1,6 +1,8 @@
 *
 !dist/
 !dist/**
+!api/
+!api/**
 !vercel.json
 **/.env
 **/.env.*
